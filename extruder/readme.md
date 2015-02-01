@@ -32,4 +32,5 @@ M3 washer			x1
 8x20mm spring			x1
 Mk8 drive gear			x1
 M4/M6 Pneumatic fitting		x1
+M8 grub screw             x1
 
