@@ -6,7 +6,7 @@ I have included picture Picture1.jpg and Picture2.jpg.
 
 Assembly should be pretty easy. If not I am usually on #reprap on IRC.
 
-The Extruder Body 1.75mm.stl and cam.stl will need to be printed with support to work. I am going to work on adding support to them to get a cleaned print.
+The Extruder Body 1.75mm.stl and cam.stl will need to be printed with support to work. I am going to work on adding support to them to get a cleaner print.
 
 BOM:
 
